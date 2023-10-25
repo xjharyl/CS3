@@ -1,0 +1,26 @@
+body {
+background-image : url( );
+background-attachment : fixed;
+background-repeat : no-repeat;
+background-position : center;
+background-size : 120%;
+}
+
+h1 {
+border: 2px dotted (color);
+text-align: center ;
+background-color: (color) ;
+font-family: (font) ;
+padding-bottom: 10px ;
+padding-top: 10px ;
+padding-left: 15px ;
+padding-right: 15px ;
+width: 250px ;
+margin-bottom: 20px ;
+}
+
+p {
+text-align: justify;
+background-color:
+padding: 20px ;
+border-top: 3px (color) ;
