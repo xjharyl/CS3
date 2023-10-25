@@ -1,0 +1,35 @@
+body {
+background-image: url("https://images.pexels.com/photos/7130555/pexels-photo-7130555.jpeg?cs=srgb&dl=pexels-codioful-%28formerly-gradienta%29-7130555.jpg&fm=jpg");
+background-repeat : no-repeat;
+background-position : center;
+background-size : 120%;
+}
+
+h1 {
+border: 2px dotted blue;
+text-align: center;
+background-color: #f2c5f0;
+font-family: Times New Roman;
+padding-bottom: 10px;
+padding-top: 10px;
+padding-left: 15px;
+padding-right: 15px;
+width: 250px;
+margin-bottom: 20px;
+}
+
+p {
+text-align: justify;
+background-color:
+padding: 20px;
+border-top: 3px hsl(263, 77, 85); 
+border-style: solid dotted dashed double;
+}
+
+span {
+font-weight: bold;
+font-style: italic;
+text-color: rgb(221, 201, 247);
+margin-left: 2px;
+margin-right: 5px;
+}
