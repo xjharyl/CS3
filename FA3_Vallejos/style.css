@@ -1,0 +1,35 @@
+body {
+background-image : url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoeOOSOfog9c9gGWoHDDRBactC9HaUco261lMDEDoZlqOWGEgEJ49yD1aHS1SQNUtENfA&usqp=CAU);
+background-repeat : no-repeat;
+background-position : center;
+background-size : 120%;
+}
+
+h1 {
+border: 2px dotted blue;
+text-align: center;
+background-color: #f2c5f0;
+font-family: Times New Roman;
+padding-bottom: 10px;
+padding-top: 10px;
+padding-left: 15px;
+padding-right: 15px;
+width: 250px;
+margin-bottom: 20px;
+}
+
+p {
+text-align: justify;
+background-color:
+padding: 20px;
+border-top: 3px hsl(263, 77, 85); 
+border-style: solid dotted dashed double;
+}
+
+span {
+font-weight: bold;
+font-style: italic;
+text-color: rgb(221, 201, 247);
+margin-left: 2px;
+margin-right: 5px;
+}
