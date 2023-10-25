@@ -20,9 +20,9 @@ margin-bottom: 20px;
 
 p {
 text-align: justify;
-background-color:
+background-color: hsl(263, 77, 85);
 padding: 20px;
-border-top: 3px hsl(263, 77, 85); 
+border-top: 3px black; 
 border-style: solid dotted dashed double;
 width: 500px;
 }
